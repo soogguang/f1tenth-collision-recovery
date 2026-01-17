@@ -9,6 +9,12 @@ It is compatible with both **ForzaETH** and **F1TENTH Gym** environments.
 
 ![driving GIF](assets/collision_recovery_video_short-2.gif)
 
+## System Architecture
+
+![node](assets/node.png)
+
+This diagram illustrates the message flow between nodes in the collision recovery system.
+
 ## Usage
 
 ### File Placement
